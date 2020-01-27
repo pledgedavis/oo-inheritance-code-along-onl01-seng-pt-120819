@@ -10,7 +10,7 @@ class Vehicle
  end
 
  def fill_up_tank
-return
+return 'filling up!'
 
  end
 
